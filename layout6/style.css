@@ -1,0 +1,38 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.layout6 {
+    border: solid 2px;
+    background-color: rgb(158, 135, 108);
+    width: 100%;
+}
+header {
+    border-bottom: solid 2px;
+    height: 50px;
+}
+.nav {
+    border-bottom: solid 2px;
+    height: 20px;
+}
+.than {
+    display: flex;
+    border-bottom: solid 2px;
+}
+.section {
+    border-right: solid 2px;
+    padding-right: 500px;
+}
+.article1 {
+    margin-left: 20px ;
+    border: solid 2px;
+    background-color: cadetblue;
+    width: 100vh;
+    height: 100px;
+    
+}
+footer {
+    padding-top: 20px;
+    height: 20px;
+}

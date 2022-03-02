@@ -1,0 +1,33 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.layout4 {
+    border: solid 2px;
+    background-color: rgb(158, 135, 108);
+    width: 100%;
+}
+header {
+    border-bottom: solid 2px;
+    height: 50px;
+}
+.than {
+    height: 200px;
+    border-bottom: solid 2px;
+}
+.nav {
+    padding-right: 25%;
+    border-right: solid 2px;
+    border-bottom: solid 2px;
+}
+.article {
+    background-color: brown;
+    margin-left: 10px;
+    border: solid 2px;
+    width: 140vh;
+    height: 20vh;
+}
+footer {
+    height: 50px;
+}
